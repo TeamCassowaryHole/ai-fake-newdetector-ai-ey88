@@ -1,4 +1,4 @@
-# 
+# Nativo AI Fake News Detector herramientas. Con aprendizaje por refuerzo y IA generativa — optimizado para el máximo rendimiento.
 
 
 
